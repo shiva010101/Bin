@@ -74,7 +74,7 @@
 * To travel short distances without wasting fuel 
 * And it is also pollution free
 
-# Jeans[Zip Jeans][3.Problem]
+# <span style="color:red">Jeans[3.Problem]</span>
 ## 1. Go out, look around you, and identify a problem that you can spot. Explain the context as well.
 * When the waist size reduces we can use the zip to fit jeans accordingly to our waist size.
 
