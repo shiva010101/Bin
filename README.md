@@ -1,4 +1,4 @@
-# Bus [1.problem]
+# Bus [Magnetic Window][1.problem]
 ##  1. Go out, look around you, and identify a problem that you can spot. Explain the context as well.
 * While travelling in a bus we noticed that a passenger was unable to open the rusted window and he cannot move window back and forth
 * And we noticed that many windows in the bus were in same condition
